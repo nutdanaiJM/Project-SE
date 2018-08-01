@@ -1,0 +1,3 @@
+﻿git command
+git init // สร้างgitในไฟล์งาน
+git status // เช็คสถานะgit
