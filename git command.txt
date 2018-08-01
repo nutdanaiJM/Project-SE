@@ -2,4 +2,4 @@
 git init // สร้างgitในไฟล์งาน
 git status // เช็คสถานะgit
 git push origin master
-run run myself
+run run myselfasdf
